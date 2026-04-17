@@ -1,7 +1,7 @@
 # Receptor Kinetic Model — Notebook Documentation
 
 **File:** `receptor_kinetic_model_final.ipynb`  
-**Manuscript:** Qiu et al., *Stiffness-Mediated Antibody Redistribution and Trafficking (SMART) by β-Glucan Nanomaterials Potentiates Hepatocellular Carcinoma Immunotherapy*, 
+**Manuscript:** Qiu et al., *Engineered stiffness-mediated antibody redistribution and trafficking (SMART) potentiates checkpoint immunotherapy in hepatocellular carcinoma*, 
 
 ---
 
